@@ -3,4 +3,4 @@ uhhh it just like automates the creation of a json, so you could like do a horde
 
 
 - v0.1
-- - added hybrid map generation, generates a plain field that can be way out of proportion from the website restrictions
+ - added hybrid map generation, generates a plain field that can be way out of proportion from the website restrictions
