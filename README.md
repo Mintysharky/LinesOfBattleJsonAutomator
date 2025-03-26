@@ -6,3 +6,5 @@ Original Game here:
 
 - v0.1
   - added hybrid map generation, generates a plain field that can be way out of proportion from the website restrictions
+- v0.2
+  - added preset map generation, however, maybe buggy af. I'll get to it one day
